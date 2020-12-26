@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 
-<!--[<img src="https://img.icons8.com/nolan/64/resume.png"/>](https://kiranmate-portfolio.netlify.app/)-->
 [<img src="https://img.icons8.com/nolan/64/linkedin.png"/>](https://www.linkedin.com/in/rushabh-sancheti-95660115a)
 [<img src="https://img.icons8.com/nolan/64/twitter-squared.png"/>](https://https://twitter.com/Rushabh2397)
 
